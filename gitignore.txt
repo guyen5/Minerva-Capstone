@@ -1,0 +1,10 @@
+# Data lives on Google Drive, never in this repository.
+data/
+*.csv
+*.parquet
+*.zip
+
+# Python and Jupyter leftovers.
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
