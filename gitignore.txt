@@ -1,4 +1,4 @@
-# Data lives on Google Drive, never in this repository.
+# Data inside Google Drive
 data/
 *.csv
 *.parquet
